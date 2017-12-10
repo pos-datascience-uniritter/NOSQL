@@ -1,2 +1,2 @@
-# mongodb-consultas
-Esse repositório apresenta 17 questões feitas, que devem ser respondidas com consultas no mongoDb
+# Introdução
+Esse repositório apresenta todas as consultas realizadas utilizando bancos nosql.
